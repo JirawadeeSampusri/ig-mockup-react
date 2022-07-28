@@ -1,0 +1,34 @@
+@media screen and (max-width: 769px) {
+  .search {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .name-brand {
+    margin-left: 15rem;
+    padding-right: 15rem;
+  }
+}
+
+.navigation {
+  box-shadow: 0 1px 1px 1px rgb(9 9 9 / 10%);
+}
+
+.d-flex {
+  padding-right: 5rem;
+  width: 45%;
+  border-radius: 8px;
+}
+
+.search input.me-2.form-control {
+  background-color: #f2f3f5;
+  border: none;
+}
+.container.fluid{
+  display: flex;
+  /* flex-wrap: inherit; */
+  /* align-items: center; */
+  justify-content: space-between;
+
+}
