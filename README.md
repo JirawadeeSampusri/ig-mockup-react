@@ -1,6 +1,6 @@
 
-<img width="1440" alt="Screen Shot 2565-07-28 at 23 40 02" src="https://user-images.githubusercontent.com/48781579/181592595-309cdb54-4fc9-4101-89c9-b46556a55cd9.png">
-
+<img width="500" alt="Screen Shot 2565-07-28 at 23 40 02" src="https://user-images.githubusercontent.com/48781579/18159<img width="399" alt="Screen Shot 2565-07-28 at 23 40 21" src="https://user-images.githubusercontent.com/48781579/181592840-7ab6322c-c77b-4015-87b0-a4aa3ece22db.png"
+  
 
 # Getting Started with Create React App
 
