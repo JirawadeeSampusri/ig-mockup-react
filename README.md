@@ -1,9 +1,9 @@
 <img width="500" alt="Screen Shot 2565-07-28 at 23 40 02" src="https://user-images.githubusercontent.com/48781579/181593164-afc32990-7400-451f-8872-62e9a0ee4085.png">
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app), tailwindcss and others.
 
 ## Available Scripts
 
